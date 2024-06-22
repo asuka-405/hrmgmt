@@ -1,0 +1,6 @@
+[submodule "wrapper"]
+	path = wrapper
+	url = https://github.com/asuka-405/hrmgmt-wrapper.git
+[submodule "core"]
+	path = core
+	url = https://github.com/asuka-405/hrmgmt-core.git
